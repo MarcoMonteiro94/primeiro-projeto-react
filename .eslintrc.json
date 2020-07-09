@@ -24,9 +24,9 @@
   },
   "plugins": [
     "react",
-    "@typescript-eslint",
     "react-hooks",
-    "prettier"
+    "prettier",
+    "@typescript-eslint"
   ],
   "rules": {
     "prettier/prettier": "error",
